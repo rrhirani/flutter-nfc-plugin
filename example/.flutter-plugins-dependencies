@@ -1,1 +1,1 @@
-{"_info":"// This is a generated file; do not edit or check into version control.","dependencyGraph":[{"name":"flutter_nfc_plugin","dependencies":[]}]}
+{"info":"This is a generated file; do not edit or check into version control.","plugins":{"ios":[],"android":[{"name":"flutter_nfc_plugin","path":"C:\\\\Android\\\\Applications\\\\bcnfcfinal\\\\","dependencies":[]}],"macos":[],"linux":[],"windows":[],"web":[]},"dependencyGraph":[{"name":"flutter_nfc_plugin","dependencies":[]}],"date_created":"2021-12-12 18:35:25.974923","version":"2.6.0-12.0.pre.999"}
